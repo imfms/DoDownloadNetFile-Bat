@@ -38,3 +38,6 @@
 
 ## 执行参数错误的处理动作
 - 遇到必要错误立即停止, e.g. URL未填写
+
+## 相关链接
+- 文本数据库工具: [TextDatabase-Bat](https://github.com/imfms/TextDatabase-Bat)
