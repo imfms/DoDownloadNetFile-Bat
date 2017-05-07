@@ -6,7 +6,7 @@
 配置描述
 
 - `URL` 下载地址 *必填*
-- `TARGET_DIR` 下载路径,如未指定或指定不存在则默认目标路径为"%temp%\tmp_%random%%random8%.exe"
+- `TARGET_DIR` 下载路径,如未指定或指定不存在则默认目标路径为"%temp%\tmp_%random%%random%.exe"
 - `IS_RUN` 下载完毕后是否执行, *true: 是*, *false: 否*, 默认*false*
 - `RUN_DELAY` 下载完毕后执行延时, 此项需要`IS_RUN`开启状态，默认为0/s
 
